@@ -1,5 +1,5 @@
 {
-  "name": "typescript-cli-calculator-using-inquirer-and-chalk",
+  "name": "typescript-cli-todo-list-using-inquirer-and-chalk",
   "version": "1.0.1",
   "main": "index.js",
   "type": "module",
