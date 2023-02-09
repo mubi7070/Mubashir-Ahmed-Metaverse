@@ -86,5 +86,3 @@ async function startAgain() {
     } while (again.restart == "y" || again.restart == "Y" || again.restart == "yes");
 }
 startAgain();
-
-console.log();
