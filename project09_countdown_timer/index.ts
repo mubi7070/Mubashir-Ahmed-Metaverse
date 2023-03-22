@@ -83,7 +83,6 @@ async function Counter() {
       console.log(chalk.bgCyan(chalk.bold(chalk.red(`${Min} min : ${Sec} sec`))));
       Sec--;
   }
-
 }
 
 
